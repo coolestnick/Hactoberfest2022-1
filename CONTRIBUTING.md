@@ -9,7 +9,7 @@
 * Create a pull request.
 * and done...will be reviewed soon.
 
-## Practice to make a Pull Request
+## Practice to make a push req
 * Fork this repo.
 * Clone the forked repo.
 * Create a new branch.
