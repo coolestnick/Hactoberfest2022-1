@@ -1,6 +1,6 @@
 ## How to Contribute
 
-* Fork this repo.
+* Fork this repository.
 * Clone the forked repo.
 * Create a new branch.
 * Make changes to the code.
